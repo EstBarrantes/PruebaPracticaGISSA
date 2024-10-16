@@ -1,0 +1,47 @@
+﻿@page
+@using System.Data
+@model Index_AdminModel
+@{
+    ViewData["Title"] = "Index_Admin Policy";
+}
+
+<h1>Usuarios</h1>
+
+@if (Model.Resultado != null)
+{
+
+
+    <a class="btn btn-danger btn-sm">Agregar Usuario</a>
+
+
+
+    <table>
+        <thead>
+            <tr>
+                @foreach (DataColumn column in Model.Resultado.Columns)
+                {
+                    <th>@column.ColumnName</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (DataRow row in Model.Resultado.Rows)
+            {
+                <tr>
+                    @foreach (var item in row.ItemArray)
+                    {
+                        <td>@item</td>
+                    }
+                    <td>
+
+                       @*  <a href="@Url.Page("EditarUsuario", new { id = row["id"] })" class="btn btn-warning btn-sm">Editar</a>
+                        <a href="@Url.Page("EliminarUsuario", new { id = row["id"] })" class="btn btn-danger btn-sm">Eliminar</a>
+                    *@ </td>
+                    </tr>
+                
+                                
+                           
+            }
+        </tbody>
+    </table>
+}

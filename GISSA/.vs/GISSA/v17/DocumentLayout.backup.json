@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\index_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\index_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\index_admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\index_admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\models\\app_db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\models\\app_db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\shared\\_layout.login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\shared\\_layout.login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\models\\habilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\models\\habilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\models\\habilidades_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\models\\habilidades_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\gissa\\gissa\\gissa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3024F397-3302-4B0D-8BCF-F1F588ADBA8E}|GISSA\\GISSA.csproj|solutionrelative:gissa\\gissa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index_Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index_Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Index_Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index_Admin.cshtml.cs",
+              "RelativeToolTip": "GISSA\\Pages\\Index_Admin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index_Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index_Admin.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Index_Admin.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index_Admin.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\Index_Admin.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T13:10:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Shared\\_Layout.Login.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Shared\\_Layout.Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Shared\\_Layout.Login.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\Shared\\_Layout.Login.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T14:13:43.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "GISSA\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Index.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T06:58:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Program.cs",
+              "RelativeDocumentMoniker": "GISSA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Program.cs",
+              "RelativeToolTip": "GISSA\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:04:06.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Login.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\Login.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T13:29:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "GISSA\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:53.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App_DB_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\App_DB_Context.cs",
+              "RelativeDocumentMoniker": "GISSA\\Models\\App_DB_Context.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\App_DB_Context.cs",
+              "RelativeToolTip": "GISSA\\Models\\App_DB_Context.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:46:11.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T13:59:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GISSA\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GISSA\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T14:57:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\appsettings.json",
+              "RelativeDocumentMoniker": "GISSA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\appsettings.json",
+              "RelativeToolTip": "GISSA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T05:24:37.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GISSA\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GISSA\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-16T13:49:42.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Habilidades_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\Habilidades_Usuario.cs",
+              "RelativeDocumentMoniker": "GISSA\\Models\\Habilidades_Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\Habilidades_Usuario.cs",
+              "RelativeToolTip": "GISSA\\Models\\Habilidades_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:07:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Habilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\Habilidades.cs",
+              "RelativeDocumentMoniker": "GISSA\\Models\\Habilidades.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\Models\\Habilidades.cs",
+              "RelativeToolTip": "GISSA\\Models\\Habilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:56:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GISSA.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\GISSA.csproj",
+              "RelativeDocumentMoniker": "GISSA\\GISSA.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta\\GISSA\\GISSA\\GISSA.csproj",
+              "RelativeToolTip": "GISSA\\GISSA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T05:41:51.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
